@@ -36,13 +36,12 @@ Testing with Postman API:
 Thoroughly tested the application's functionality using Postman API, ensuring the reliability and correctness of CRUD operations.
 
 Technologies and Tools Used:
-Spring Boot
-Spring Data JPA
-Java
-RESTful API
-DTOs
-Exception Handling
-Hibernate (if applicable)
-Database  MySQL(MySQL server workbench)
-Postman
+Spring Boot,
+Spring Data JPA,
+Java,
+RESTful API,
+DTOs,
+Exception Handling,
+Database  MySQL(MySQL server workbench),
+Postman testing API,
 Spring Tool Suite (STS)
